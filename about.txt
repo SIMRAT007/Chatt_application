@@ -1,0 +1,5 @@
+Introduction 
+
+I build a real-time chat application with room functionality where you can create your own room and share the room name with your friends to have text-based communication.
+What We Will Be Using to Build?
+I will be using Node.js for the back end, which will be responsible for creating rooms and managing users in those rooms. Additionally, we will be using Socket.io to enable real-time, bidirectional communication between the web server and the client (browser).
